@@ -1,0 +1,9 @@
+* { box-sizing: border-box; margin: 0; padding: 0; }
+html, body { height: 100%; }
+body {
+  font-family: 'Space Grotesk', system-ui, sans-serif;
+  background: #0a0a0f;
+  color: #e8e8ef;
+  -webkit-font-smoothing: antialiased;
+}
+#root { height: 100%; }
