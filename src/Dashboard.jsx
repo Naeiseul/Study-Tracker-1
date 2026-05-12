@@ -119,7 +119,7 @@ const SUBJECTS = {
   ],
 };
 
-const PAYSTACK_KEY = 'pk_test_xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx';
+const PAYSTACK_KEY = 'pk_test_0a8ab8e2374fa0747fd065ffc6a01c36b93dc418';
 
 function SubscribeFlow({ onComplete, onLogout, userEmail }) {
   const [step, setStep] = useState(1);
